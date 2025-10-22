@@ -7,6 +7,14 @@ h1, h2 {
     color: rgb(255, 255, 255);
 }
 
+h2:hover {
+    color: tomato;
+    text-decoration: underline double 2px;
+    font-style: italic;
+    font-size: 1.7em;
+    cursor: cell;
+}
+
 body {
     font-family: Calibri, sans-serif;
     color: white;
